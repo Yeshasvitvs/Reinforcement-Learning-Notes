@@ -1,0 +1,1 @@
+This repository  contains markdown notes on the Reinforcement Learning lecture series by Prof. David Silver. The series youtube playlist can be found [here](https://www.youtube.com/playlist?list=PLweqsIcZJac7PfiyYMvYiHfOFPg9Um82B) and the associated slides can be found [here](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)  
